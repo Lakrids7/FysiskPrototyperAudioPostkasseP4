@@ -1,0 +1,21 @@
+System messages:
+MÅSKE: "You have (antal beskeder) messages".
+
+"Would you like to listen to a message?"
+
+"Would you like to answer the message?"
+
+"Please record your message after the beep. *BEEP*"
+
+"Would you like to send the message?"
+
+"Messsage sent."
+
+
+
+
+
+Doctor messages:
+
+"Hello Dorothy. What do you think of your new medicin we gave you? Do you feel any difference?"
+
